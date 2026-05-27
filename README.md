@@ -1,4 +1,3 @@
-Sí. Para el repo público yo pondría algo así: claro, profesional, no demasiado técnico y orientado a usuarios finales.
 # QX - Extractor Quipux
 
 **QX - Extractor Quipux** es una herramienta de escritorio para Windows que permite extraer, organizar y exportar información documental desde Quipux.
